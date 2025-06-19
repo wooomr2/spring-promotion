@@ -1,3 +1,4 @@
 rootProject.name = 'promotion'
 
 include 'service:discovery-service'
+include 'service:user-service'
